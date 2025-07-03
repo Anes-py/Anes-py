@@ -27,7 +27,7 @@ I'm passionate about web development with **Django** and focused on building a *
 - 📱 **Telegram**: [@Anes_Py](https://t.me/Anes_Py)
 
 ---
-
+ 
 ## GitHub Stats:
 ![Anes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anes-py&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
