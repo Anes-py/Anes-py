@@ -9,7 +9,7 @@ I'm passionate about web development with **Django** and focused on building a *
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-FF0000?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -27,7 +27,7 @@ I'm passionate about web development with **Django** and focused on building a *
 - 📱 **Telegram**: [@Anes_Py](https://t.me/Anes_Py)
 
 ---
- 
+
 ## GitHub Stats:
 ![Anes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anes-py&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
